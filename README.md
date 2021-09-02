@@ -1,2 +1,2 @@
 # ScraCrawl
- Scrapy Crawler
+ Crawling data using Scrapy Framework
